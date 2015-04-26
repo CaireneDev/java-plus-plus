@@ -31,6 +31,7 @@ package com.cairenedev.javaplusplus;
  *  
  *  <em>size()</em>
  *  ** constant time (returns original components count)
+ *  
  *  <em>count()</em>
  *  ** constant time (returns current components count)
  *     
